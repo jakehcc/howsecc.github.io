@@ -1,1 +1,0 @@
-This is a basic README for the website. Check its up.
